@@ -1,0 +1,4 @@
+name,email,phone,service_type,property_size,preferred_date,status
+John Smith,john@example.com,+10000000001,Home Cleaning,2 Bedrooms,2026-11-10,New
+Sarah Lee,sarah@example.com,+10000000002,Deep Cleaning,3 Bedrooms,2026-11-12,New
+Michael Brown,michael@example.com,+10000000003,Office Cleaning,Small Office,2026-11-15,New
