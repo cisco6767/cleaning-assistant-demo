@@ -1,0 +1,19 @@
+{
+  "company_name": "Bright Clean Services",
+  "services": [
+    {
+      "name": "Home Cleaning",
+      "description": "Regular cleaning for houses and apartments."
+    },
+    {
+      "name": "Deep Cleaning",
+      "description": "Detailed cleaning of kitchens, bathrooms and living areas."
+    },
+    {
+      "name": "Office Cleaning",
+      "description": "Cleaning services for small and medium offices."
+    }
+  ],
+  "working_hours": "Monday to Saturday, 9 AM to 6 PM",
+  "contact_email": "info@example.com"
+}
